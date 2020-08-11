@@ -5,7 +5,7 @@
 ### Sobre mim
   Olá, me chamo Raphael Balogo e sou de São Paulo, Brasil. Ofereço serviços de Web Design e sou entusiasta nas áreas de Desenvolvimento web e Análise de dados. Atualmente meu desenvolvimento pessoal é focado nas areas de UI/UX.
 
--  **Trabalhando como :** Desenvolvedor UI/UX Autônomo | Consultor Sênior de Data Analytics na EY
+-  **Trabalhando como :** Desenvolvedor UI/UX Autônomo | Consultor de Data Analytics na EY
 -  **Aprendendo :** UI/UX :zap: | React :gem:
 -  **Hobbies :** Livros :books: | Jogos :video_game:
 
