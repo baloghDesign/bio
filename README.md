@@ -17,7 +17,7 @@ Caso queira saber mais sobre mim:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=baloghDesign&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=raphaelBalogo&show_icons=true)
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=baloghDesign.bio)
 
