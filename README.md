@@ -13,7 +13,7 @@ Caso queira saber mais sobre mim:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Raphael%20Balogo-blue)](https://www.linkedin.com/in/raphael-balogo-33052a134/) 
 [![Codewars Badge](https://img.shields.io/badge/CodeWars-balogoraphaeel-red)](https://www.codewars.com/users/balogoraphael) 
-[![Codewars Badge](https://www.codewars.com/users/balogoraphael/badges/smal)]() 
+[![Codewars Badge](https://www.codewars.com/users/balogoraphael/badges/smal)](https://www.codewars.com/users/balogoraphael/badges/smal) 
 [![StackOverflow Badge](https://img.shields.io/badge/StackOverflow-Raphael%20Balogo-green)](https://stackoverflow.com/users/11347945/raphael-balogo) 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
