@@ -1,9 +1,9 @@
-## Raphael Balogo 👨‍💻
+## Raphael Almeida 👨‍💻
   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 ### About me
-  Hi, I'm Raphael Balogo from São Paulo, Brazil. I'm currently developing my skill stack as a software engineer and I'm very enthusiastic about web development in general.
+  Hi, I'm Raphael Almeida from São Paulo, Brazil. I'm currently developing my skill stack as a software engineer and I'm very enthusiastic about web development in general.
 
 -  **Working as :** Senior Consultant at EY
 -  **Learning :** UI/UX :zap: | React :gem: | Angular
