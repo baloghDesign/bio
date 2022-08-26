@@ -16,7 +16,7 @@ In case you want to know some more about me check the url's below:
 [![Codewars Badge](https://www.codewars.com/users/balogoraphael/badges/small)](https://www.codewars.com/users/balogoraphael/) 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=raphaelBalogo&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=raphabg&show_icons=true)
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=baloghDesign.bio)
 
