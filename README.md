@@ -3,10 +3,10 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 ### About me
-  Hi, I'm Raphael Almeida from São Paulo, Brazil. I'm currently developing my skill stack as a software engineer and I'm very enthusiastic about web development in general.
+  Hi, I'm Raphael Almeida from São Paulo, Brazil. I'm currently developing my skill stack as a software engineer and architect and I'm very enthusiastic about software development in general.
 
 -  **Working as :** Senior Consultant at EY
--  **Learning :** UI/UX :zap: | React :gem: | Angular
+-  **Skills :** D3.js | React | .NET | SQL | Azure Cloud | Python | Databricks |
 -  **Hobbies :** Books :books: | Games :video_game:
 
 In case you want to know some more about me check the url's below:
