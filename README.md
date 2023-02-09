@@ -6,7 +6,7 @@
   Hi, I'm Raphael Almeida from São Paulo, Brazil. I'm currently developing my skill stack as a software engineer and architect and I'm very enthusiastic about software development in general.
 
 -  **Working as :** Senior Consultant at EY
--  **Skills :** D3.js | React | .NET | SQL | Azure Cloud | Python | Databricks |
+-  **Skills :** D3.js | React | .NET | SQL | Miscrosoft Azure | Azure Devops | Python | Databricks | Git
 -  **Hobbies :** Books :books: | Games :video_game:
 
 In case you want to know some more about me check the url's below:
