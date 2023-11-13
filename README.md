@@ -3,8 +3,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 ### About me
-  Hi, I'm Raphael Almeida from São Paulo, Brazil. I'm currently developing my skill stack as a software engineer and architect and I'm very enthusiastic about software development in general.
-
+  Hi, I'm Raphael Almeida from São Paulo, Brazil. I'm a passionate data engineer who works at Databricks.
 -  **Working as :** Senior Technical Solutions Engineer at Databricks.
 -  **Skills :** Azure, Spark, Databricks, React, TypeScript, JavaScript, .NET, C#, SQL, Python, Data Engineering, Software Engineering, Microservices, ETL, NoSQL,
 Restful, APIs
