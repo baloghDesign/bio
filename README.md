@@ -5,9 +5,8 @@
 ### About me
   Hi, I'm Raphael Almeida from São Paulo, Brazil. I'm a passionate data engineer that works at Databricks.
 -  **Working as :** Sr. Technical Solutions Engineer at Databricks.
--  **Skills :** Azure, Apache Spark, Databricks, React, TypeScript, JavaScript, .NET, C#, SQL, Python, Data Engineering, Software Engineering, Microservices, ETL, NoSQL,
-Restful, APIs
--  **Hobbies :** Books :books: | Games :video_game:
+-  **Skills :** Apache Spark, Python, SQL, Databricks, Data Engineering.
+-  **Hobbies : Games :video_game:
 -  **Professional Experience :** 6+ Years
 
 In case you want to know some more about me check the url's below:
