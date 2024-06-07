@@ -3,7 +3,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
 ### About me
-  Hi, I'm Raphael Almeida from São Paulo, Brazil. I'm a passionate data engineer that works at Databricks.
+  Hi, I'm Raphael Almeida from São Paulo, Brazil. I'm a passionate Sr.TSE that works at Databricks.
 -  **Working as :** Sr. Technical Solutions Engineer at Databricks.
 -  **Skills :** Apache Spark, Python, SQL, Delta, Databricks, Data Engineering.
 -  **Hobbies : Games :video_game:
